@@ -1,0 +1,12 @@
+Hospital: + Saúde
+Paciente: Ana
+Telefone: (99) 99999909
+Laudo de Tomografia
+Tomografia - Abdômen - Total
+Tecnica:Exame realizado com cortes volumétricos com aquisição por multidetectores.
+Relatório:
+Figado situação, dimensões, contornos e densidades normais.
+testando
+hospital 
+hospital
+hospital
